@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Fitxer de prova modificat desde master.
+
+Fitxer de prova modificat desde branch 1.
+
